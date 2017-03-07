@@ -1,5 +1,4 @@
-
-Munin plugin for TFA co2 sensor
+# Munin plugin for TFA co2 sensors
 
 Copy into /etc/munin/plugins -- no configuration needed.
 
