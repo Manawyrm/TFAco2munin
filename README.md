@@ -1,6 +1,10 @@
 # Munin plugin for TFA co2 sensors
 
-Copy into /etc/munin/plugins -- no configuration needed.
+Copy into /etc/munin/plugins and add to /etc/munin/plugin-conf.d/munin-node : 
+```
+[tfaco2]
+user root
+```
 
 # credits
 
