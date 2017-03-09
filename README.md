@@ -6,6 +6,8 @@ Copy into /etc/munin/plugins and add to /etc/munin/plugin-conf.d/munin-node :
 user root
 ```
 
+![Munin-Graph](tfaco2-pinpoint.png)
+
 # credits
 
 based on code by [henryk ploetz](https://hackaday.io/project/5301-reverse-engineering-a-low-cost-usb-co-monitor/log/17909-all-your-base-are-belong-to-us)
