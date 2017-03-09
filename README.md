@@ -6,7 +6,7 @@ Copy into /etc/munin/plugins and add to /etc/munin/plugin-conf.d/munin-node :
 user root
 ```
 
-![Munin-Graph](tfaco2-pinpoint.png)
+![Munin-Graph](tfaco2-pinpoint600.png)
 
 # credits
 
